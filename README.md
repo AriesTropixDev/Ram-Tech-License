@@ -1,5 +1,6 @@
 # Ram Tech License
-[![DOI](https://zenodo.org/badge/351896912.svg)](https://zenodo.org/badge/latestdoi/351896912)  ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/AriesTropixDev/Ram-Tech-License?color=%23FFF000&label=Version&style=plastic)
+[![DOI](https://zenodo.org/badge/351896912.svg)](https://zenodo.org/badge/latestdoi/351896912)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/AriesTropixDev/Ram-Tech-License?color=%23FFF000&label=Version&style=plastic)
 
 Welcome to Ram Tech License!!! If you want help securing you repository heres the solution.
 
