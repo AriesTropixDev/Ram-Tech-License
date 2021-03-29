@@ -1,0 +1,26 @@
+# Ram Tech License v0.0.3
+
+Copyright (c) Limited Rights Reserved 2021 AriesTropixDev
+
+**This hereby declares that the copyright holder has the right to make a
+copy of this software with these limitations:**
+
+* Publish
+
+* Sell
+
+* Use
+
+* Copy
+
+**This notice below states all the rights the copyright
+holder has.**
+
+THIS SOFTWARE IS FOR LIMITED USE BY THE COPYRIGHT HOLDER ONLY.
+THIS DOES NOT APPLY WITH THE OWNER OF THIS SOFTWARE. THE 
+COPYRIGHT HOLDER CAN COPYRIGHT THIS SOFTWARE WITH THE 
+RESTRICTIONS FOR PUBLISHING, UNAUTHORIZED USE, ILLEGALLY 
+SELLING THIS SOFTWARE, COPYING THE SOFTWARE AND FALSELY
+CLAIMING IT. THE COPYRIGHT HOLDER HAS THE FOLLOWING RIGHTS
+MODIFYING, COPYING THE SOFTWARE AND GIVE CREDIT TO THE CREATOR
+OF THIS SOFTWARE.
